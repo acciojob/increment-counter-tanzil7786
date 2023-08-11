@@ -1,0 +1,4 @@
+{
+    "testRepo": "increment-counter-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
